@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @paul040696
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python and JS.
 - 💞️ I’m looking to collaborate on Fullstack Web Projects.
 - 📫 How to reach me https://www.linkedin.com/in/paul-luchian-621948165/
 
